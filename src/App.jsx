@@ -6,6 +6,7 @@ import Card5 from "./components/Card5"
 import Card6 from "./components/Card6"
 import Card7 from "./components/Card7"
 import Card8 from "./components/Card8"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import NavBar from "./components/NavBar"
 
@@ -22,6 +23,7 @@ function App() {
       <Card6 />
       <Card7 />
       <Card8 />
+      <Footer />
       
     </div>
   )
