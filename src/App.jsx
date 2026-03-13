@@ -14,6 +14,7 @@ function App() {
   return (
     <div className="App">
       <NavBar />
+     <main className="pt-20">
       <Hero />
       <Card1 />
       <Card2 />
@@ -24,7 +25,7 @@ function App() {
       <Card7 />
       <Card8 />
       <Footer />
-      
+      </main>
     </div>
   )
 }
